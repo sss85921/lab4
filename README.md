@@ -556,3 +556,10 @@
 00406104 i fthunk
 00406050 i hname
 00406084 i hname
+第二題
+1    4
+4    4
+4    4
+8    4
+char大小為1，int及float大小為4，double大小為8
+指標大小都為4
